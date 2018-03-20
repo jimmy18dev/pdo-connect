@@ -9,7 +9,7 @@
   },
   "autoload": {
     "psr-4": {
-      "jimmy18dev\\pdo-connection\\": "src/"
+      "jimmy18dev\\PdoConnect\\": "src/"
     }
   }
 
