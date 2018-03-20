@@ -1,16 +1,8 @@
 {
   "name": "jimmy18dev/pdo-connect",
-  "description": "php-http is a simple HTTP class with php5-curl",
-  "license": "MIT",
-  "require": {
-    "php": ">=5"
-  },
-  "require-dev": {
-  },
   "autoload": {
-    "psr-4": {
-      "jimmy18dev\\PdoConnect\\": "src/"
+    "psr-0": {
+      "jimmy18dev\\PdoConnect": "src"
     }
   }
-
 }
